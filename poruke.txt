@@ -1,0 +1,58 @@
+Server je poslao klijentu spisak svih pacijenata. Datum: 27/05/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 28/05/2020 
+Pacijent: tuktrd tkku sa dijagnozom:k6teku je dodat. Datum: 28/05/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 28/05/2020 
+Otpusten je pacijent: 5 (Datum: 28/05/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 28/05/2020 
+Pacijent: tkeetyk ktyek sa dijagnozom:teykke je dodat. Datum: 28/05/2020 
+Pokusano je dodavanje pacijenta. Desila se greska.  Datum: 28/05/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 28/05/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 28/05/2020 
+Otpusten je pacijent: 5 (Datum: 28/05/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 29/05/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Pacijent: yjfdyy jfdjy sa dijagnozom:djhds je dodat. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Otpusten je pacijent: 5 Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Pacijent: gngxf ngfn sa dijagnozom:fxgnf je dodat. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Otpusten je pacijent: 5 Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Pacijent: uyfu ugui sa dijagnozom:HJVHJL je dodat. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Otpusten je pacijent: 5 Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Pacijent: igi bigvbi sa dijagnozom:kj je dodat. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Otpusten je pacijent: 5 Datum: 01/06/2020 
+Pacijent: yfyu uyfyu sa dijagnozom:molh je dodat. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Otpusten je pacijent: 5 Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Pacijent: ihg8 yfgy sa dijagnozom:8y76tg je dodat. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Otpusten je pacijent: 5 Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Pacijent: Petar Petrovic sa dijagnozom:prelom kosti ruke je dodat. Datum: 01/06/2020 
+Pacijent: iugi bigb sa dijagnozom:vhgv je dodat. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Otpusten je pacijent: 6 Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 01/06/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 12/11/2020 
+Pokusano je dodavanje pacijenta. Desila se greska.  Datum: 12/11/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 12/11/2020 
+Server je poslao klijentu spisak svih pacijenata. Datum: 28/01/2022 
+Server je poslao klijentu spisak svih pacijenata. Datum: 28/01/2022 
+Server je poslao klijentu spisak svih pacijenata. Datum: 28/01/2022 
+Server je poslao klijentu spisak svih pacijenata. Datum: 28/01/2022 
